@@ -1,2 +1,3 @@
-# resumen-base-de-datos
-Resumen de los temas del 2do parcial (promocional) de Base de datos (75.15-75.28-95.05 Beiró)
+# Resumen Base de datos
+
+Es un copy-pasteo a modo resumen de lo que está en las diapositivas de la clase con algún ejemplo propio.
